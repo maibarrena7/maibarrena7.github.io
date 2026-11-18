@@ -1,89 +1,121 @@
 ---
-title: "Maité A. Barrena"
-subtitle: "Marine ecologist · Open science instructor · Research data enthusiast"
-# image: img/profile.jpg   # <- descomentar al subir tu foto
-about:
-  template: trestles
-  image-shape: round
-  image-width: 14em
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/maibarrena7
-    - icon: journal-text
-      text: ResearchGate
-      href: https://www.researchgate.net/profile/Maite-Barrena-3
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/mait%C3%A9-barrena-706911390/
-    - icon: envelope
-      text: Email
-      href: mailto:maibarrena7@gmail.com
-    # - icon: person-badge
-    #   text: ORCID
-    #   href: https://orcid.org/XXXX-XXXX-XXXX-XXXX
+pagetitle: "Maité A. Barrena · Marine ecologist"
+page-layout: full
+title-block-style: none
 ---
+
+```{=html}
+<section class="hero" style="background-image:url('img/bg/sunset-coast.jpg');">
+  <div class="hero-inner">
+    <img class="hero-photo" src="img/profile.jpg" alt="Maité Barrena on a research boat in San Antonio Bay">
+    <h1>Maité A. Barrena</h1>
+    <div class="tagline">Marine ecologist · Open science instructor · Ocean data steward</div>
+    <div class="place">San Antonio Oeste, northern Patagonia, Argentina</div>
+    <div class="hero-links">
+      <a href="research.html">Research</a>
+      <a href="cv.html">CV</a>
+      <a href="https://github.com/maibarrena7">GitHub</a>
+      <a href="https://www.researchgate.net/profile/Maite-Barrena-3">ResearchGate</a>
+      <a href="https://www.linkedin.com/in/mait%C3%A9-barrena-706911390/">LinkedIn</a>
+      <a href="mailto:maibarrena7@gmail.com">Email</a>
+    </div>
+  </div>
+</section>
+```
+
+::: wrap
 
 ## Hi, I'm Mai 🌊
 
+::: lead-text
 I'm a marine ecologist (she/her) finishing my PhD at the National University of
-Comahue and a doctoral fellow at **CIMAS–CONICET** in San Antonio Oeste,
-northern Patagonia, Argentina.
+Comahue and a CONICET doctoral fellow at the **Faculty of Marine Sciences** and
+**CIMAS** in San Antonio Oeste, northern Patagonia.
+:::
 
-My research looks at how coastal fish and invertebrate assemblages of
-**San Antonio Bay** change through space and time, and how they relate to
-trophic interactions and artisanal fisheries. I use Patagonian coastal systems
-as a natural laboratory.
+I study how coastal fish and invertebrate assemblages of **San Antonio Bay**
+are assembled and how they change through time: which species and traits pass
+the environmental filters of a highly variable bay, how they are connected in
+food webs, and how all of this relates to the local artisanal fishery.
 
-I care deeply about making ecological research **reproducible, transparent and
-reusable**. I trained as an open science instructor at the LMU Open Science Center, I work on
-research data stewardship, and I'm moving toward **metascience in marine
-ecology**: studying how we collect, report and share ecological data.
-
-I also teach mathematics to marine biology students.
+I also care deeply about **how** we do science. I trained as an open science
+instructor at the LMU Open Science Center, I'm an Ocean Data Steward, and I'm
+moving toward **metascience in marine ecology**: studying how ecological data
+are collected, reported and shared, so they can be trusted and reused.
 
 [Open to postdoctoral opportunities]{.chip .chip-open}
-
-## Interests
-
-[Coastal community ecology]{.chip} [Long-term ecological data]{.chip}
+[Coastal community ecology]{.chip} [Functional diversity]{.chip}
 [Trophic ecology]{.chip} [Artisanal fisheries]{.chip}
-[Metascience]{.chip} [Reproducibility]{.chip} [FAIR data]{.chip}
-[R & Quarto]{.chip} [Data visualization]{.chip}
+[Metascience]{.chip} [Reproducibility]{.chip} [FAIR data]{.chip} [R & Quarto]{.chip}
+
+```{=html}
+<div class="stats">
+  <div class="stat"><div class="num">8</div><div class="lbl">papers &amp; manuscripts</div></div>
+  <div class="stat"><div class="num">9</div><div class="lbl">conference presentations</div></div>
+  <div class="stat"><div class="num">12</div><div class="lbl">open science trainings</div></div>
+  <div class="stat"><div class="num">3</div><div class="lbl">students mentored</div></div>
+</div>
+```
+
+## Where I work
+
+```{=html}
+<div class="affil">
+  <img src="img/logos/facimar.png" alt="Faculty of Marine Sciences, National University of Comahue">
+  <img src="img/logos/cimas.png" alt="CIMAS – Almirante Storni Center for Applied Research and Technology Transfer in Marine Resources" style="height:110px">
+</div>
+```
+
+<p class="centered" style="font-size:.95rem">
+Laboratory of Biodiversity and Ecosystem Services (LABSE) · Faculty of Marine Sciences (FACIMAR),
+National University of Comahue · CIMAS–CONICET
+</p>
+
+```{=html}
+<div class="band" style="background-image:url('img/bg/fishers.jpg');">
+  <div class="band-inner">
+    <p>Using Patagonian coastal systems as a natural laboratory for community ecology, and ecology as a laboratory for better science.</p>
+  </div>
+</div>
+```
 
 ## Education
 
-::: card-item
-**PhD in Biology** · Centro Regional Universitario Bariloche, National University of Comahue
+```{=html}
+<div class="timeline">
+  <div class="tl-item">
+    <div class="yr">2022 – 2027 · thesis under review</div>
+    <h4>PhD in Biology</h4>
+    <p>Bariloche Regional University Centre, National University of Comahue · CONICET doctoral fellowship</p>
+    <p><em>Fish and invertebrate assemblages of San Antonio Bay through time: drivers of their composition, trophic ecology and artisanal fishery.</em></p>
+    <p class="text-muted" style="font-size:.9rem">Supervisors: M.A. Narvarte &amp; R.A. González</p>
+  </div>
+  <div class="tl-item">
+    <div class="yr">2012 – 2022</div>
+    <h4>BSc (Licentiate, 5-year degree) in Marine Biology</h4>
+    <p>Faculty of Marine Sciences, National University of Comahue</p>
+    <p><em>Seasonal and ontogenetic variation in the acanthocephalan community of the Patagonian blennie (Eleginops maclovinus) in San Antonio Bay.</em></p>
+    <p class="text-muted" style="font-size:.9rem">Supervisors: M.A. Narvarte &amp; J.S. Hernández-Orts</p>
+  </div>
+</div>
+```
 
-[2022 – 2027 (expected)]{.meta}
+## Open science training
 
-Spatio-temporal dynamics of fish and invertebrate assemblages in San Antonio Bay.
-:::
-
-::: card-item
-**Licenciatura in Marine Biology** · Faculty of Marine Sciences, National University of Comahue
-
-[AÑO]{.meta}
-
-Thesis on acanthocephalan parasites of the Patagonian blennie *Eleginops maclovinus*.
-:::
-
-## Training & certifications
-
-::: card-item
-**Open Science Summer School 2026 · Instructor certification** · LMU Open Science Center, Munich
-:::
-
-::: card-item
-**Metascience Summer School 2026** · Berlin Institute of Health at Charité
-:::
-
-::: card-item
-**Fish-PACE Hackweek 2026** · Satellite ocean colour × fish functional diversity
-:::
+```{=html}
+<div class="logo-wall">
+  <a class="logo-card" href="open-science.html"><img src="img/logos/lmu-osc.png" alt="LMU Open Science Center"><div class="lbl">Open Science Instructor Training &amp; Summer School</div><div class="yr">LMU Munich · 2026</div></a>
+  <a class="logo-card" href="open-science.html"><div class="txt-logo">BIH</div><div class="lbl">Meta-Science Summer School</div><div class="yr">Berlin Institute of Health at Charité · 2026</div></a>
+  <a class="logo-card" href="open-science.html"><img src="img/logos/ocean-data-steward.png" alt="Ocean Data Steward"><div class="lbl">Ocean Data Stewardship Training</div><div class="yr">Intertidal Agency · 2026</div></a>
+  <a class="logo-card" href="open-science.html"><img src="img/logos/irise.png" alt="iRISE"><div class="lbl">Train-the-Trainer: Reproducibility</div><div class="yr">iRISE · 2026</div></a>
+  <a class="logo-card" href="open-science.html"><img src="img/logos/sortee.png" alt="SORTEE"><div class="lbl">Member &amp; Code Club</div><div class="yr">SORTEE · 2025 – present</div></a>
+  <a class="logo-card" href="open-science.html"><img src="img/logos/pace.png" alt="NASA PACE"><div class="lbl">Fish-PACE HackWeek</div><div class="yr">NOAA Fisheries &amp; NASA PACE · 2026</div></a>
+</div>
+```
 
 ::: funfact
 Fun fact: when I started my degree in marine biology I said
-"I'm never going to work with fish, they smell bad".
+"I'm never going to work with fish, they smell bad". 🐟
+:::
+
 :::

@@ -2,44 +2,149 @@
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Teaching",
+    "title": "Teaching & Mentoring",
     "section": "",
-    "text": "Teaching Assistant · Mathematics 1 (Matemática 1)\nLicenciatura in Marine Biology · Faculty of Marine Sciences, UNCo · AÑO – present\nI prepare step-by-step worked solutions to exams so students can follow the reasoning, not just the answer.\n\n\nDel caos al orden (open science workshop)\n2026–2027\nSee Open Science."
+    "text": "2024 – present\n    \n    BSc in Marine Biology, Faculty of Marine Sciences, UNCo\n    I prepare step-by-step worked solutions to exams so students can follow the reasoning, not just the answer.\n  \n  \n    2016 – 2018\n    \n    BSc in Marine Biology, Faculty of Marine Sciences, UNCo\n  \n  \n    2016\n    \n    BSc in Marine Biology, Faculty of Marine Sciences, UNCo"
+  },
+  {
+    "objectID": "teaching.html#university-teaching",
+    "href": "teaching.html#university-teaching",
+    "title": "Teaching & Mentoring",
+    "section": "",
+    "text": "2024 – present\n    \n    BSc in Marine Biology, Faculty of Marine Sciences, UNCo\n    I prepare step-by-step worked solutions to exams so students can follow the reasoning, not just the answer.\n  \n  \n    2016 – 2018\n    \n    BSc in Marine Biology, Faculty of Marine Sciences, UNCo\n  \n  \n    2016\n    \n    BSc in Marine Biology, Faculty of Marine Sciences, UNCo"
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching & Mentoring",
+    "section": "Mentoring",
+    "text": "Mentoring\n\n\n\nBSc thesis co-supervision · Lautaro Escobar Molina\n2026 – present · with Dr. E. Rodríguez\nHow aggregates of the ecosystem-engineer polychaete Phyllochaetopterus spp. shape macrozoobenthic assemblages along a regional gradient of rocky intertidal shores in the San Matías Gulf.\n\n\n\n\nBSc thesis co-supervision · Valentina L. Martín\n2025 – present · with Dr. L.A. Hünicken\nUpdating the diet of three dominant coastal fishes of San Antonio Bay: E. maclovinus, O. argentinensis and D. argenteus.\n\n\n\n\nSupervised research practicums (PInEX) · Laboratory of Biodiversity and Ecosystem Services\n2023 – 2026 · G. Vásquez, V. Martín, L. Escobar Molina\nTraining students to identify and analyse epibenthic assemblages from artisanal fishing grounds and benthic fauna associated with polychaete aggregates."
+  },
+  {
+    "objectID": "teaching.html#open-science-teaching",
+    "href": "teaching.html#open-science-teaching",
+    "title": "Teaching & Mentoring",
+    "section": "Open science teaching",
+    "text": "Open science teaching\n\nFrom Messy Folders to Reproducible Research · six-session workshop on organising research projects in R\nFaculty of Marine Sciences, UNCo\nSee Open Science · workshop website"
+  },
+  {
+    "objectID": "teaching.html#outreach",
+    "href": "teaching.html#outreach",
+    "title": "Teaching & Mentoring",
+    "section": "Outreach",
+    "text": "Outreach\n\n  \n  \n    \"Beauty is on the inside\": the ecological importance of parasites on Patagonian coastsTalk · World Oceans Week 2024, FACIMAR\n    Arrecifes & Costas PatagoniaTalk · World Oceans Week 2024, FACIMAR\n    \"Algae: the little giants of San Antonio Bay\" and \"Mathematics in Action\"University outreach projects, FACIMAR–UNCo\n    World Oceans Day open houseCIMAS · 2023"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Maité A. Barrena",
     "section": "",
-    "text": "I’m a marine ecologist (she/her) finishing my PhD at the National University of Comahue and a doctoral fellow at CIMAS–CONICET in San Antonio Oeste, northern Patagonia, Argentina.\nMy research looks at how coastal fish and invertebrate assemblages of San Antonio Bay change through space and time, and how they relate to trophic interactions and artisanal fisheries. I use Patagonian coastal systems as a natural laboratory.\nI care deeply about making ecological research reproducible, transparent and reusable. I trained as an open science instructor at the LMU Open Science Center, I work on research data stewardship, and I’m moving toward metascience in marine ecology: studying how we collect, report and share ecological data.\nI also teach mathematics to marine biology students.\nOpen to postdoctoral opportunities"
+    "text": "Marine ecologist · Open science instructor · Ocean data steward\n    San Antonio Oeste, northern Patagonia, Argentina\n    \n      Research\n      CV\n      GitHub\n      ResearchGate\n      LinkedIn\n      Email"
   },
   {
     "objectID": "index.html#hi-im-mai",
     "href": "index.html#hi-im-mai",
     "title": "Maité A. Barrena",
-    "section": "",
-    "text": "I’m a marine ecologist (she/her) finishing my PhD at the National University of Comahue and a doctoral fellow at CIMAS–CONICET in San Antonio Oeste, northern Patagonia, Argentina.\nMy research looks at how coastal fish and invertebrate assemblages of San Antonio Bay change through space and time, and how they relate to trophic interactions and artisanal fisheries. I use Patagonian coastal systems as a natural laboratory.\nI care deeply about making ecological research reproducible, transparent and reusable. I trained as an open science instructor at the LMU Open Science Center, I work on research data stewardship, and I’m moving toward metascience in marine ecology: studying how we collect, report and share ecological data.\nI also teach mathematics to marine biology students.\nOpen to postdoctoral opportunities"
+    "section": "Hi, I’m Mai 🌊",
+    "text": "Hi, I’m Mai 🌊\n\nI’m a marine ecologist (she/her) finishing my PhD at the National University of Comahue and a CONICET doctoral fellow at the Faculty of Marine Sciences and CIMAS in San Antonio Oeste, northern Patagonia.\n\nI study how coastal fish and invertebrate assemblages of San Antonio Bay are assembled and how they change through time: which species and traits pass the environmental filters of a highly variable bay, how they are connected in food webs, and how all of this relates to the local artisanal fishery.\nI also care deeply about how we do science. I trained as an open science instructor at the LMU Open Science Center, I’m an Ocean Data Steward, and I’m moving toward metascience in marine ecology: studying how ecological data are collected, reported and shared, so they can be trusted and reused.\nOpen to postdoctoral opportunities Coastal community ecology Functional diversity Trophic ecology Artisanal fisheries Metascience Reproducibility FAIR data R & Quarto\n\n  8papers & manuscripts\n  9conference presentations\n  12open science trainings\n  3students mentored"
   },
   {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
+    "objectID": "index.html#where-i-work",
+    "href": "index.html#where-i-work",
     "title": "Maité A. Barrena",
-    "section": "Interests",
-    "text": "Interests\nCoastal community ecology Long-term ecological data Trophic ecology Artisanal fisheries Metascience Reproducibility FAIR data R & Quarto Data visualization"
+    "section": "Where I work",
+    "text": "Where I work\n\n  \n  \n\n\nLaboratory of Biodiversity and Ecosystem Services (LABSE) · Faculty of Marine Sciences (FACIMAR), National University of Comahue · CIMAS–CONICET\n\n\n  \n    Using Patagonian coastal systems as a natural laboratory for community ecology, and ecology as a laboratory for better science."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Maité A. Barrena",
     "section": "Education",
-    "text": "Education\n\nPhD in Biology · Centro Regional Universitario Bariloche, National University of Comahue\n2022 – 2027 (expected)\nSpatio-temporal dynamics of fish and invertebrate assemblages in San Antonio Bay.\n\n\nLicenciatura in Marine Biology · Faculty of Marine Sciences, National University of Comahue\nAÑO\nThesis on acanthocephalan parasites of the Patagonian blennie Eleginops maclovinus."
+    "text": "Education\n\n  \n    2022 – 2027 · thesis under review\n    PhD in Biology\n    Bariloche Regional University Centre, National University of Comahue · CONICET doctoral fellowship\n    Fish and invertebrate assemblages of San Antonio Bay through time: drivers of their composition, trophic ecology and artisanal fishery.\n    Supervisors: M.A. Narvarte & R.A. González\n  \n  \n    2012 – 2022\n    BSc (Licentiate, 5-year degree) in Marine Biology\n    Faculty of Marine Sciences, National University of Comahue\n    Seasonal and ontogenetic variation in the acanthocephalan community of the Patagonian blennie (Eleginops maclovinus) in San Antonio Bay.\n    Supervisors: M.A. Narvarte & J.S. Hernández-Orts"
   },
   {
-    "objectID": "index.html#training-certifications",
-    "href": "index.html#training-certifications",
+    "objectID": "index.html#open-science-training",
+    "href": "index.html#open-science-training",
     "title": "Maité A. Barrena",
-    "section": "Training & certifications",
-    "text": "Training & certifications\n\nOpen Science Summer School 2026 · Instructor certification · LMU Open Science Center, Munich\n\n\nMetascience Summer School 2026 · Berlin Institute of Health at Charité\n\n\nFish-PACE Hackweek 2026 · Satellite ocean colour × fish functional diversity\n\n\nFun fact: when I started my degree in marine biology I said “I’m never going to work with fish, they smell bad”."
+    "section": "Open science training",
+    "text": "Open science training\n\n  Open Science Instructor Training & Summer SchoolLMU Munich · 2026\n  BIHMeta-Science Summer SchoolBerlin Institute of Health at Charité · 2026\n  Ocean Data Stewardship TrainingIntertidal Agency · 2026\n  Train-the-Trainer: ReproducibilityiRISE · 2026\n  Member & Code ClubSORTEE · 2025 – present\n  Fish-PACE HackWeekNOAA Fisheries & NASA PACE · 2026\n\n\nFun fact: when I started my degree in marine biology I said “I’m never going to work with fish, they smell bad”. 🐟"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "LABSE, FACIMAR–CIMAS–CONICET · San Antonio Oeste, Río Negro, Argentina · maibarrena7@gmail.com"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n  2022 – present · thesis under reviewPhD in Biology\n    Bariloche Regional University Centre, National University of Comahue (UNCo). CONICET doctoral fellowship (2022–2027).\n  2012 – 2022BSc (Licentiate, 5-year degree) in Marine Biology\n    Faculty of Marine Sciences, National University of Comahue."
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research experience",
+    "text": "Research experience\n\nCONICET Doctoral Fellow · FACIMAR–CIMAS, CONICET\n2022 – present\nTaxonomic and functional diversity, coastal trophic ecology and artisanal fisheries in San Antonio Bay.\n\n\nUndergraduate Research Fellowship (EVC-CIN) · FACIMAR–UNCo\n2017 – 2018\nParasite ecology of acanthocephalans in commercially important fishes.\n\n\nResearch projects and networks\n\nEcosystem services of sponge-dominated habitats in northern Patagonian marine wetlands along an urban pollution gradient (PIN2 04/P016, UNCo). Team member, 2026 – present.\nIntegrated study of the environment, biodiversity and fishery resources of the San Matías Gulf (PUE 22920200100033, CIMAS–CONICET). Doctoral fellow, 2022 – 2026.\nSpatio-temporal structure of the phytoplankton assemblage of the San Antonio Bay frontal system (PIN1 04/P007, UNCo). Collaborator, 2024 – 2025.\nRIDPA · Fish Diversity Indicators Network of Argentina.\nμSudAqua · Coastal Oceanographic Observatories, Río Negro node, Latin American network on aquatic microbial ecology. 2021 – present.\nArrecifes & Costas Patagonia · Patagonian coastal ecology working group. 2022 – present."
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\nSee the full list with links on the Research page: 4 published, 1 in press and 3 in review."
+  },
+  {
+    "objectID": "cv.html#selected-conference-presentations",
+    "href": "cv.html#selected-conference-presentations",
+    "title": "Curriculum Vitae",
+    "section": "Selected conference presentations",
+    "text": "Selected conference presentations\n\nSpatio-temporal characterisation of a mesoscale marine front · XII National Marine Science Meeting, Puerto Madryn, Argentina (2025)\nSeasonal gradients in the phytoplankton size spectrum in a mesoscale marine front · XII National Marine Science Meeting (2025)\nTrophic opportunism in the face of an invasion? The green crab as new prey of two coastal fishes in northern Patagonia · XII National Marine Science Meeting (2025)\nTrophic functional groups of macroinvertebrates as predictors of fish biomass in a northern Patagonian coastal system · XII National Marine Science Meeting (2025)\nFunctional response of the fish assemblage to seasonal gradients in a coastal system · XII National Marine Science Meeting (2025)\nPhylogenomics of Acanthocephala: insights from new transcriptomes · XI Symposium on Fish Parasitology, Mérida, Mexico (2025)\nFish assemblage structure and artisanal fishing in San Antonio Bay: a temporal analysis · VIII Argentine Ichthyology Symposium (2024)\nFunctional diversity in artisanal fishing areas of northern Patagonia · VIII Argentine Ichthyology Symposium (2024)\nDiet analysis and comparison of two flounder species in the San Matías Gulf · VIII Argentine Ichthyology Symposium (2024, co-author)"
+  },
+  {
+    "objectID": "cv.html#open-science-reproducibility-data-management",
+    "href": "cv.html#open-science-reproducibility-data-management",
+    "title": "Curriculum Vitae",
+    "section": "Open science, reproducibility & data management",
+    "text": "Open science, reproducibility & data management\n\nPractical Open Science Summer School (Track 1) & Open Science Instructor Training (Track 2) · LMU Open Science Center, LMU Munich, Germany · Sep 2026\nMeta-Science Summer School: Designing Studies to Improve Research · Berlin Institute of Health at Charité, Germany · 2026 (travel grant)\nOcean Data Stewardship Training Program · Intertidal Agency · Spring 2026\nNebula Program (OLS × NASA TOPS), 4th cohort · Jul 2026\nOpen Science 101 · NASA Science Mission Directorate · Jul 2026\nOpen Science Tools · MetaDocencia (10 h) · Jun 2026\niRISE Train-the-Trainer Workshops: Introduction to Reproducibility and Pre-registration and preprint review · Feb 2026\nPACE Data Access Training / Fish-PACE HackWeek · NOAA Fisheries Open Science & NASA PACE Applications (34 h) · Jan 2026\nSORTEE webinar on reproducible R code; SORTEE Code Club member · 2026"
+  },
+  {
+    "objectID": "cv.html#scientific-societies",
+    "href": "cv.html#scientific-societies",
+    "title": "Curriculum Vitae",
+    "section": "Scientific societies",
+    "text": "Scientific societies\n\nActive member, SORTEE (Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology) · 2025 – present"
+  },
+  {
+    "objectID": "cv.html#grants-awards",
+    "href": "cv.html#grants-awards",
+    "title": "Curriculum Vitae",
+    "section": "Grants & awards",
+    "text": "Grants & awards\n\nSCOR travel grant · Ramón Margalef Colloquia: Fundamentals of Ecology for Conservation and Restoration of Marine Systems, Institute of Marine Sciences (ICM-CSIC) & University of Barcelona, Spain (45 h) · Mar 2025\nTravel funding · Meta-Science Summer School, Berlin Institute of Health at Charité, Germany · 2026"
+  },
+  {
+    "objectID": "cv.html#teaching-mentoring",
+    "href": "cv.html#teaching-mentoring",
+    "title": "Curriculum Vitae",
+    "section": "Teaching & mentoring",
+    "text": "Teaching & mentoring\n\nTeaching Assistant, Mathematics I · FACIMAR–UNCo · 2024 – present\nStudent Teaching Assistant, Invertebrates I (2016) and History and Philosophy of Science (2016 – 2018) · FACIMAR–UNCo\nCo-supervisor of 2 BSc theses (2025 – present) and supervisor of 4 research practicums (PInEX, 2023 – 2026). See Teaching."
+  },
+  {
+    "objectID": "cv.html#selected-additional-training",
+    "href": "cv.html#selected-additional-training",
+    "title": "Curriculum Vitae",
+    "section": "Selected additional training",
+    "text": "Selected additional training\nMultivariate analysis in R for ecology, genetics and evolution (UBA, 2025) · Data management in R for ecologists (2025) · Trophic ecology of coastal marine systems (UNMDP, 2025) · Reproductive ecology of marine organisms (UNMDP, 2024) · Spatial data analysis with QGIS and R (UNMDP, 2024) · Linear mixed models in R (CRUB, 2023) · Bayesian models in ecology with R (CRUB, 2023) · Stable isotope analysis for trophic ecology in R (UNSJB, 2023) · Foundations of environmental management (CRUB, 2026)"
+  },
+  {
+    "objectID": "cv.html#service",
+    "href": "cv.html#service",
+    "title": "Curriculum Vitae",
+    "section": "Service",
+    "text": "Service\n\nFaculty Board member, Faculty of Marine Sciences · faculty representative (2026 – present), graduate representative (2024 – 2026)\nStudent Union, School of Marine Sciences · President (2017 – 2018), Treasurer (2018 – 2019), General Secretary (2019 – 2021)\nSchool Board member, student representative (2014 – 2016)"
   },
   {
     "objectID": "blog.html",
@@ -49,59 +154,87 @@
     "text": "No matching items"
   },
   {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Click on any image to enlarge it."
+  },
+  {
+    "objectID": "gallery.html#data-visualization",
+    "href": "gallery.html#data-visualization",
+    "title": "Gallery",
+    "section": "Data visualization",
+    "text": "Data visualization\n\n\n\n\n\n\nFunctional space and functional trajectories of the fish assemblage of San Antonio Bay across two years of surveys.\n\n\n\n\n\n\n\nTaxonomic and functional β-diversity between consecutive surveys, partitioned into turnover and nestedness.\n\n\n\n\n\n\n\n\n\nConceptual model: how hierarchical filtering from the San Matías Gulf to San Antonio Bay, and seasonal turnover, produce a persistent functional core.\n\n\n\n\n\n\n\nFunctional trophic network: links between predator guilds and prey functional groups, weighted by mean %IRI.\n\n\n\n\n\n\n\n\n\nCalibrated chlorophyll-a across stations and density classes of the San Antonio Bay – San Matías Gulf front, by season.\n\n\n\n\n\n\n\nRLQ ordination linking PACE satellite phytoplankton variables to fish functional traits (Fish-PACE HackWeek 2026)."
+  },
+  {
+    "objectID": "gallery.html#from-the-field",
+    "href": "gallery.html#from-the-field",
+    "title": "Gallery",
+    "section": "From the field",
+    "text": "From the field\nThese paintings are made from my own fieldwork photos in San Antonio Bay.\n\n\n\n\n\n\nSunset over the bay\n\n\n\n\n\n\n\nHeading out to sample\n\n\n\n\n\n\n\nArtisanal fishers at work\n\n\n\n\n\n\n\n\n\nPatagonian steppe at dusk\n\n\n\n\n\n\n\nFieldwork day\n\n\n\n\n\n\n\nStudy area"
+  },
+  {
     "objectID": "open-science.html",
     "href": "open-science.html",
     "title": "Open Science & Research Data",
     "section": "",
-    "text": "Ecology relies more and more on long-term monitoring, satellite products and large shared datasets. Whether those data can be found, understood and reused depends on how we organise, document and report our work. I want to help close that gap in marine ecology, both by teaching practical workflows and by studying research practices themselves (metascience)."
+    "text": "Ecology relies more and more on long-term monitoring, satellite products and large shared datasets. Whether those data can be trusted and reused depends on how we organise, document and report our work.\n\nI want to help close that gap in marine ecology in two ways: by teaching practical, reproducible workflows to fellow researchers, and by studying research practices themselves (metascience). I’m especially interested in data editing and data stewardship for ecological journals and observatories."
   },
   {
     "objectID": "open-science.html#why-it-matters-to-me",
     "href": "open-science.html#why-it-matters-to-me",
     "title": "Open Science & Research Data",
     "section": "",
-    "text": "Ecology relies more and more on long-term monitoring, satellite products and large shared datasets. Whether those data can be found, understood and reused depends on how we organise, document and report our work. I want to help close that gap in marine ecology, both by teaching practical workflows and by studying research practices themselves (metascience)."
+    "text": "Ecology relies more and more on long-term monitoring, satellite products and large shared datasets. Whether those data can be trusted and reused depends on how we organise, document and report our work.\n\nI want to help close that gap in marine ecology in two ways: by teaching practical, reproducible workflows to fellow researchers, and by studying research practices themselves (metascience). I’m especially interested in data editing and data stewardship for ecological journals and observatories."
   },
   {
-    "objectID": "open-science.html#projects",
-    "href": "open-science.html#projects",
+    "objectID": "open-science.html#teaching-from-messy-folders-to-reproducible-research",
+    "href": "open-science.html#teaching-from-messy-folders-to-reproducible-research",
     "title": "Open Science & Research Data",
-    "section": "Projects",
-    "text": "Projects\n\nMetascience Summer School 2026 · group project\nBerlin Institute of Health at Charité\nDesigning an end-to-end toolkit to improve reporting practices. \n\n\nCoastal oceanographic observatory database\nData protocol\nProtocol for the structure, interoperability and reuse of a coastal oceanographic observatory’s database."
+    "section": "Teaching: From Messy Folders to Reproducible Research",
+    "text": "Teaching: From Messy Folders to Reproducible Research\n\n  \n    \n    \n  \n  \n    WorkshopFaculty of Marine Sciences, UNCo · taught in Spanish\n    From Messy Folders to Reproducible Research: Organising Research Projects in R\n    A six-session, in-person workshop on organising, documenting and version-controlling research projects in R, with a simulated example project that goes from chaos to order. Developed for my instructor certification at the LMU Open Science Center. Licensed CC BY-SA 4.0.\n    Workshop website · Materials on GitHub"
   },
   {
-    "objectID": "open-science.html#teaching-open-science",
-    "href": "open-science.html#teaching-open-science",
+    "objectID": "open-science.html#metascience",
+    "href": "open-science.html#metascience",
     "title": "Open Science & Research Data",
-    "section": "Teaching open science",
-    "text": "Teaching open science\n\nDel caos al orden: organising research projects in R\nWorkshop · Faculty of Marine Sciences, UNCo · in Spanish\nSix-session, in-person workshop on organising, documenting and version-controlling research projects in R. Developed as part of my instructor certification at the LMU Open Science Center. CC BY-SA 4.0.\nWorkshop website · Materials"
+    "section": "Metascience",
+    "text": "Metascience\n\n  BIH · CharitéMeta-Science Summer School 2026Travel grant awardee\n  \n    In reviewGroup project · Implementation Science\n    Beyond checklists: tools for study design and reporting\n    At the Meta-Science Summer School \"Designing Studies to Improve Research\" (Berlin Institute of Health at Charité), our team mapped the tools that help researchers actually implement study design and reporting guidelines, beyond the checklist itself.\n  \n\n\n\n  \n  \n    OngoingCoastal Oceanographic Observatories · Río Negro node\n    A data protocol for a coastal observatory\n    Designing the structure, metadata and interoperability standards of a coastal oceanographic observatory's database, so that long-term data can be reused beyond the team that collected them."
+  },
+  {
+    "objectID": "open-science.html#training-communities",
+    "href": "open-science.html#training-communities",
+    "title": "Open Science & Research Data",
+    "section": "Training & communities",
+    "text": "Training & communities\n\n  Open Science Instructor Training (Track 2) & Practical Open Science Summer School (Track 1)LMU Munich · Sep 2026\n  BIHMeta-Science Summer School: Designing Studies to Improve ResearchBerlin Institute of Health at Charité · 2026\n  Ocean Data Stewardship Training ProgramIntertidal Agency · Spring 2026\n  Train-the-Trainer: Introduction to Reproducibility · Preregistration & preprint reviewiRISE · Feb 2026\n  Nebula Program (OLS × NASA TOPS), 4th cohortJul 2026\n  NASA TOPSOpen Science 101NASA Science Mission Directorate · Jul 2026\n  MetaDocenciaOpen Science ToolsJun 2026\n  PACE Data Access Training / Fish-PACE HackWeek (34 h)NOAA Fisheries & NASA PACE · Jan 2026\n  Active member · Code Club · Reproducible R code webinarSORTEE · 2025 – present"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My doctoral thesis studies the spatio-temporal dynamics of coastal fish assemblages in northern Patagonia, their interspecific interactions and their links with the artisanal fishery of San Antonio Bay (Río Negro, Argentina)."
+    "text": "Study area: San Antonio Bay and the San Matías Gulf, northern Patagonia\n\n\n\nSan Antonio Bay is a hypersaline, macrotidal coastal bay on the San Matías Gulf (Río Negro, Argentina). Tides empty and refill its channels twice a day, temperature swings strongly between seasons, and an artisanal fishery has worked its waters for decades.\nThat variability makes it a natural laboratory to ask how coastal communities are assembled, how stable they are, and how people and ecosystems are linked.\nFunctional diversity Community assembly Food webs Fisheries Oceanographic fronts"
   },
   {
-    "objectID": "research.html#phd-project",
-    "href": "research.html#phd-project",
+    "objectID": "research.html#study-system",
+    "href": "research.html#study-system",
     "title": "Research",
     "section": "",
-    "text": "My doctoral thesis studies the spatio-temporal dynamics of coastal fish assemblages in northern Patagonia, their interspecific interactions and their links with the artisanal fishery of San Antonio Bay (Río Negro, Argentina)."
+    "text": "Study area: San Antonio Bay and the San Matías Gulf, northern Patagonia\n\n\n\nSan Antonio Bay is a hypersaline, macrotidal coastal bay on the San Matías Gulf (Río Negro, Argentina). Tides empty and refill its channels twice a day, temperature swings strongly between seasons, and an artisanal fishery has worked its waters for decades.\nThat variability makes it a natural laboratory to ask how coastal communities are assembled, how stable they are, and how people and ecosystems are linked.\nFunctional diversity Community assembly Food webs Fisheries Oceanographic fronts"
   },
   {
-    "objectID": "research.html#current-lines",
-    "href": "research.html#current-lines",
+    "objectID": "research.html#research-lines",
+    "href": "research.html#research-lines",
     "title": "Research",
-    "section": "Current lines",
-    "text": "Current lines\n\nTrophic ecology of the coastal fish assemblage\nSan Antonio Bay\nTrophic relationships and food-web indicators of the coastal fish assemblage.\n\n\nWho can live in San Antonio Bay?\nCommunity assembly\nRegional and functional filters as drivers of temporal persistence and turnover in the fish assemblage.\n\n\nArtisanal fishers and their catch\nSocio-ecological research\nTo what extent do artisanal fishers maintain their traditional practices, which species dominate their catch, and what drives that trend?\n\n\nThe San Antonio Bay – San Matías Gulf front\nCollaboration · data & code\nHydrography and chlorophyll-a patterns of a hypersaline bay–gulf frontal system (manuscript in preparation). Repository\n\n\nA glimpse of food webs from space\nFish-PACE Hackweek 2026\nLinking satellite-derived phytoplankton functional types with fish functional diversity from bottom trawl surveys. Repository"
+    "section": "Research lines",
+    "text": "Research lines\n\n  \n  \n    In reviewPhD · chapter 1\n    Persistent functional structure in a variable bay\n    Species come and go with the seasons, yet the functional structure of the fish assemblage persists. Using null models, β-diversity and functional trajectories, we show it emerges from hierarchical environmental filtering and ontogenetic turnover.\n    Barrena et al. · Ecology and Evolution (in review)\n  \n\n\n\n  \n  \n    In preparationPhD · chapter 3\n    Who eats whom: trophic ecology of coastal fishes\n    Diet analyses of the dominant coastal fishes, grouped into predator guilds and prey functional groups, reveal how the food web is organised and how opportunistic predators respond to new prey such as the invasive green crab.\n  \n\n\n\n  \n  \n    PublishedPhD · chapter 4\n    The fish assemblage and the artisanal fishery through time\n    Comparing current surveys with historical records to understand how the coastal fish assemblage and the catch of San Antonio Bay's artisanal fishers have changed, and how fishers perceive those changes.\n    Barrena et al. 2025 · Marine and Fishery Sciences · doi\n  \n\n\n\n  \n  \n    In preparationCollaboration · data & code\n    A hypersaline bay–gulf front\n    Hydrography and chlorophyll-a patterns across the San Antonio Bay – San Matías Gulf frontal system. My role: data curation, analysis workflow and a reproducible repository.\n    Saad et al. · GitHub repository\n  \n\n\n\n  \n  \n    Hackweek projectFish-PACE HackWeek 2026\n    A glimpse of food webs from space\n    Linking satellite-derived phytoplankton functional types (NASA PACE) with fish functional traits from NOAA bottom trawl surveys on the Northeast US Shelf, using RLQ analysis.\n    GitHub repository\n  \n\n\nOther lines and collaborations\n\n\n\nPlankton under marine heatwaves\nCollaboration · Marine Environmental Research (in press), Microbial Ecology (in review)\nHow warming, recurrent heatwaves and nutrient regimes shape coastal plankton production and respiration.\n\n\n\n\nParasites of the Patagonian blennie\nFolia Parasitologica 2025 · BSc thesis\nAcanthocephalan fauna of Eleginops maclovinus and how it varies with season and host size.\n\n\n\n\nPacific oyster in northern Patagonia\nMarine and Fishery Sciences\nDistribution, abundance and size structure of the invasive Magallana gigas along 180 km of coast.\n\n\n\n\nResearch networks\nRIDPA · μSudAqua · Arrecifes & Costas Patagonia\nFish Diversity Indicators Network of Argentina; Coastal Oceanographic Observatories (Río Negro node); Patagonian coastal ecology working group."
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\n\n\nThorny-headed worms of the Patagonian blennie\nFolia Parasitologica · 2025\nAcanthocephalan fauna of 120 Eleginops maclovinus from northern Patagonia. doi:10.14411/fp.2025.030\n\n\nA historical appraisal of the San Antonio Bay fish assemblage\nMarine and Fishery Sciences · 2025\nComposition and temporal dynamics of the coastal fish assemblage and its relationship with the artisanal fishery, compared with historical records. doi:10.47193/mafis.3842025011010\n\n\nPopulation dynamics of the Pacific cupped oyster Magallana gigas in northern Patagonia\nMarine and Fishery Sciences · 2025\nDistribution, abundance and size structure along 180 km of coastline. doi:10.47193/mafis.3822025010105\n\n\nA Latin American network of microbial observatories for monitoring aquatic ecosystems\nEcología Austral · 2024\nHistorical overview of the network’s formation and key debates (2017–2023). doi:10.25260/EA.24.34.3.0.2436"
+    "text": "Publications\n\n  In review\n  Persistent functional structure emerges from hierarchical filtering and ontogenetic turnover in a highly variable Patagonian coastal bay\n  Barrena M.A., Saad J.F., Svendsen G.M., Cuesta-Núñez J., Firstater F.N., Narvarte M.A., González R.A.\n  Ecology and Evolution\n\n\n  In review\n  Beyond checklists: mapping tools to support study design & reporting guideline implementation\n  Strzebonska K., Vachadze N., Barrena M.A., Kaur S., Khanal R., Nemeti-Feher Z., Sancar I.V., Wojciechowska M., Zhao X., Nachev V., Weissgerber T.L.\n  Implementation Science\n\n\n  In review\n  Nutrient regimes shape coastal plankton responses to marine heatwaves, warming, and low nitrogen-to-phosphorus ratios\n  Cabrerizo M.J., Helbling E.W., Valiñas M.S., Saad J.F., Unrein F., Barrena M.A., Villafañe V.E.\n  Microbial Ecology\n\n\n  In press\n  Recurrent heatwaves, warming and a low nitrogen-to-phosphorus ratio stimulate the gross primary production-to-respiration ratios in coastal plankton\n  Cabrerizo M.J., Helbling E.W., Valiñas M.S., Unrein F., Saad J.F., Barrena M.A., Irigoyen M.F., Villafañe V.E.\n  Marine Environmental Research\n\n\n  2025\n  Thorny-headed worms (Acanthocephala) of the Patagonian blennie Eleginops maclovinus (Cuvier) from northern Patagonia, Argentina\n  Barrena M.A. & Hernández-Orts J.S.\n  Folia Parasitologica 72: 030 · doi:10.14411/fp.2025.030\n\n\n  2025\n  A historical appraisal of fish assemblage and the artisanal fishery in San Antonio Bay, northern Patagonia, Argentina\n  Barrena M.A., Saad J.F., Gastaldi M., Landete D., Firstater F.N., Narvarte M.A., González R.A.\n  Marine and Fishery Sciences 38(4) · doi:10.47193/mafis.3842025011010\n\n\n  2025\n  Distribution, abundance and size structure of the Pacific oyster Magallana gigas in northern Patagonia (in Spanish)\n  Hünicken L.A., González R., Landete D., Barrena M.A., Saad J.F., Narvarte M.A.\n  Marine and Fishery Sciences · doi:10.47193/mafis.3822025010105\n\n\n  2024\n  A Latin American network of microbial observatories for monitoring aquatic ecosystems\n  Fermani P., Martyniuk N., Saraceno M., Gerea M., Sabio y García C.A., Schiaffino M.R., Sánchez M.L., Dohle S.A., Alonso C., Barrena M.A., et al.\n  Ecología Austral · doi:10.25260/EA.24.34.3.0.2436"
   }
 ]

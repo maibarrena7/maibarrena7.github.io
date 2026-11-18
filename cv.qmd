@@ -1,0 +1,109 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Maité Aneley Barrena · Marine Biologist · CONICET Doctoral Fellow"
+title-block-banner: img/bg/boat-wake.jpg
+---
+
+<!-- When you add the PDF, save it as cv/CV_Barrena.pdf and uncomment the line below -->
+<!-- [Download full CV (PDF)](cv/CV_Barrena.pdf){.btn .btn-primary} -->
+
+LABSE, FACIMAR–CIMAS–CONICET · San Antonio Oeste, Río Negro, Argentina ·
+[maibarrena7@gmail.com](mailto:maibarrena7@gmail.com)
+
+## Education
+
+```{=html}
+<div class="timeline">
+  <div class="tl-item"><div class="yr">2022 – present · thesis under review</div><h4>PhD in Biology</h4>
+    <p>Bariloche Regional University Centre, National University of Comahue (UNCo). CONICET doctoral fellowship (2022–2027).</p></div>
+  <div class="tl-item"><div class="yr">2012 – 2022</div><h4>BSc (Licentiate, 5-year degree) in Marine Biology</h4>
+    <p>Faculty of Marine Sciences, National University of Comahue.</p></div>
+</div>
+```
+
+## Research experience
+
+::: card-item
+**CONICET Doctoral Fellow** · FACIMAR–CIMAS, CONICET
+
+[2022 – present]{.meta}
+
+Taxonomic and functional diversity, coastal trophic ecology and artisanal fisheries in San Antonio Bay.
+:::
+
+::: card-item
+**Undergraduate Research Fellowship (EVC-CIN)** · FACIMAR–UNCo
+
+[2017 – 2018]{.meta}
+
+Parasite ecology of acanthocephalans in commercially important fishes.
+:::
+
+### Research projects and networks
+
+- **Ecosystem services of sponge-dominated habitats** in northern Patagonian marine wetlands along an urban pollution gradient (PIN2 04/P016, UNCo). Team member, 2026 – present.
+- **Integrated study of the environment, biodiversity and fishery resources of the San Matías Gulf** (PUE 22920200100033, CIMAS–CONICET). Doctoral fellow, 2022 – 2026.
+- **Spatio-temporal structure of the phytoplankton assemblage of the San Antonio Bay frontal system** (PIN1 04/P007, UNCo). Collaborator, 2024 – 2025.
+- **RIDPA** · Fish Diversity Indicators Network of Argentina.
+- **μSudAqua** · Coastal Oceanographic Observatories, Río Negro node, Latin American network on aquatic microbial ecology. 2021 – present.
+- **Arrecifes & Costas Patagonia** · Patagonian coastal ecology working group. 2022 – present.
+
+## Publications
+
+See the full list with links on the [Research](research.qmd#publications) page:
+4 published, 1 in press and 3 in review.
+
+## Selected conference presentations
+
+- Spatio-temporal characterisation of a mesoscale marine front · *XII National Marine Science Meeting*, Puerto Madryn, Argentina (2025)
+- Seasonal gradients in the phytoplankton size spectrum in a mesoscale marine front · *XII National Marine Science Meeting* (2025)
+- Trophic opportunism in the face of an invasion? The green crab as new prey of two coastal fishes in northern Patagonia · *XII National Marine Science Meeting* (2025)
+- Trophic functional groups of macroinvertebrates as predictors of fish biomass in a northern Patagonian coastal system · *XII National Marine Science Meeting* (2025)
+- Functional response of the fish assemblage to seasonal gradients in a coastal system · *XII National Marine Science Meeting* (2025)
+- Phylogenomics of Acanthocephala: insights from new transcriptomes · *XI Symposium on Fish Parasitology*, Mérida, Mexico (2025)
+- Fish assemblage structure and artisanal fishing in San Antonio Bay: a temporal analysis · *VIII Argentine Ichthyology Symposium* (2024)
+- Functional diversity in artisanal fishing areas of northern Patagonia · *VIII Argentine Ichthyology Symposium* (2024)
+- Diet analysis and comparison of two flounder species in the San Matías Gulf · *VIII Argentine Ichthyology Symposium* (2024, co-author)
+
+## Open science, reproducibility & data management
+
+- Practical Open Science Summer School (Track 1) & Open Science Instructor Training (Track 2) · LMU Open Science Center, LMU Munich, Germany · Sep 2026
+- Meta-Science Summer School: *Designing Studies to Improve Research* · Berlin Institute of Health at Charité, Germany · 2026 (travel grant)
+- Ocean Data Stewardship Training Program · Intertidal Agency · Spring 2026
+- Nebula Program (OLS × NASA TOPS), 4th cohort · Jul 2026
+- Open Science 101 · NASA Science Mission Directorate · Jul 2026
+- Open Science Tools · MetaDocencia (10 h) · Jun 2026
+- iRISE Train-the-Trainer Workshops: *Introduction to Reproducibility* and *Pre-registration and preprint review* · Feb 2026
+- PACE Data Access Training / Fish-PACE HackWeek · NOAA Fisheries Open Science & NASA PACE Applications (34 h) · Jan 2026
+- SORTEE webinar on reproducible R code; SORTEE Code Club member · 2026
+
+## Scientific societies
+
+- Active member, **SORTEE** (Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology) · 2025 – present
+
+## Grants & awards
+
+- **SCOR travel grant** · Ramón Margalef Colloquia: *Fundamentals of Ecology for Conservation and Restoration of Marine Systems*, Institute of Marine Sciences (ICM-CSIC) & University of Barcelona, Spain (45 h) · Mar 2025
+- **Travel funding** · Meta-Science Summer School, Berlin Institute of Health at Charité, Germany · 2026
+
+## Teaching & mentoring
+
+- Teaching Assistant, Mathematics I · FACIMAR–UNCo · 2024 – present
+- Student Teaching Assistant, Invertebrates I (2016) and History and Philosophy of Science (2016 – 2018) · FACIMAR–UNCo
+- Co-supervisor of 2 BSc theses (2025 – present) and supervisor of 4 research practicums (PInEX, 2023 – 2026). See [Teaching](teaching.qmd).
+
+## Selected additional training
+
+Multivariate analysis in R for ecology, genetics and evolution (UBA, 2025) ·
+Data management in R for ecologists (2025) · Trophic ecology of coastal marine
+systems (UNMDP, 2025) · Reproductive ecology of marine organisms (UNMDP, 2024) ·
+Spatial data analysis with QGIS and R (UNMDP, 2024) · Linear mixed models in R
+(CRUB, 2023) · Bayesian models in ecology with R (CRUB, 2023) · Stable isotope
+analysis for trophic ecology in R (UNSJB, 2023) · Foundations of environmental
+management (CRUB, 2026)
+
+## Service
+
+- Faculty Board member, Faculty of Marine Sciences · faculty representative (2026 – present), graduate representative (2024 – 2026)
+- Student Union, School of Marine Sciences · President (2017 – 2018), Treasurer (2018 – 2019), General Secretary (2019 – 2021)
+- School Board member, student representative (2014 – 2016)

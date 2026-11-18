@@ -9,6 +9,7 @@ website:
   description: "Marine ecologist · Open science & research data"
   site-url: "https://maibarrena7.github.io"
   repo-url: "https://github.com/maibarrena7/maibarrena7.github.io"
+  favicon: img/logos/ocean-data-steward.png
   navbar:
     left:
       - href: index.qmd
@@ -19,11 +20,12 @@ website:
         text: Open Science
       - href: teaching.qmd
         text: Teaching
+      - href: gallery.qmd
+        text: Gallery
       - href: blog.qmd
         text: Blog
-      # Descomentar cuando subas cv/CV.pdf
-      # - href: cv/CV.pdf
-      #   text: CV
+      - href: cv.qmd
+        text: CV
     right:
       - icon: github
         href: https://github.com/maibarrena7
@@ -35,7 +37,7 @@ website:
         href: mailto:maibarrena7@gmail.com
         aria-label: Email
   page-footer:
-    left: "© 2026 Maité A. Barrena · Content under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    left: "© 2026 Maité A. Barrena · Content under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Paintings from my own fieldwork photos"
     right: "Built with [Quarto](https://quarto.org/) & R"
 
 format:
@@ -45,3 +47,4 @@ format:
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
+    lightbox: auto

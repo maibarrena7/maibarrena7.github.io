@@ -1,0 +1,41 @@
+---
+title: "Gallery"
+subtitle: "Figures from my research, and the places behind the data"
+title-block-banner: img/bg/sunset-coast.jpg
+---
+
+Click on any image to enlarge it.
+
+## Data visualization
+
+::: {layout-ncol=2}
+![Functional space and functional trajectories of the fish assemblage of San Antonio Bay across two years of surveys.](img/figs/functional-trajectories.jpg){group="viz"}
+
+![Taxonomic and functional β-diversity between consecutive surveys, partitioned into turnover and nestedness.](img/figs/beta-time.jpg){group="viz"}
+
+![Conceptual model: how hierarchical filtering from the San Matías Gulf to San Antonio Bay, and seasonal turnover, produce a persistent functional core.](img/figs/conceptual-model.jpg){group="viz"}
+
+![Functional trophic network: links between predator guilds and prey functional groups, weighted by mean %IRI.](img/figs/functional-network.jpg){group="viz"}
+
+![Calibrated chlorophyll-a across stations and density classes of the San Antonio Bay – San Matías Gulf front, by season.](img/figs/front-chlorophyll.jpg){group="viz"}
+
+![RLQ ordination linking PACE satellite phytoplankton variables to fish functional traits (Fish-PACE HackWeek 2026).](img/figs/pace-rlq.jpg){group="viz"}
+:::
+
+## From the field
+
+These paintings are made from my own fieldwork photos in San Antonio Bay.
+
+::: {layout-ncol=3}
+![Sunset over the bay](img/bg/sunset-coast.jpg){group="field"}
+
+![Heading out to sample](img/bg/boat-wake.jpg){group="field"}
+
+![Artisanal fishers at work](img/bg/fishers.jpg){group="field"}
+
+![Patagonian steppe at dusk](img/bg/steppe-sunset.jpg){group="field"}
+
+![Fieldwork day](img/fieldwork.jpg){group="field"}
+
+![Study area](img/figs/study-area.jpg){group="field"}
+:::
