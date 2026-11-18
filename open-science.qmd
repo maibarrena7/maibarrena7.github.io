@@ -1,0 +1,46 @@
+---
+title: "Open Science & Research Data"
+---
+
+## Why it matters to me
+
+Ecology relies more and more on long-term monitoring, satellite products and
+large shared datasets. Whether those data can be found, understood and reused
+depends on how we organise, document and report our work. I want to help
+close that gap in marine ecology, both by teaching practical workflows and by
+studying research practices themselves (metascience).
+
+## Projects
+
+::: card-item
+**Metascience Summer School 2026 · group project**
+
+[Berlin Institute of Health at Charité]{.meta}
+
+Designing an end-to-end toolkit to improve reporting practices.
+<!-- Ajustar descripción y agregar link si existe -->
+:::
+
+::: card-item
+**Coastal oceanographic observatory database**
+
+[Data protocol]{.meta}
+
+Protocol for the structure, interoperability and reuse of a coastal
+oceanographic observatory's database.
+:::
+
+## Teaching open science
+
+::: card-item
+**Del caos al orden: organising research projects in R**
+
+[Workshop · Faculty of Marine Sciences, UNCo · in Spanish]{.meta}
+
+Six-session, in-person workshop on organising, documenting and
+version-controlling research projects in R. Developed as part of my instructor
+certification at the LMU Open Science Center. CC BY-SA 4.0.
+
+[Workshop website](https://maibarrena7.github.io/from-caos-to-order/) ·
+[Materials](https://github.com/maibarrena7/from-caos-to-order)
+:::

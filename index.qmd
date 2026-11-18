@@ -1,0 +1,89 @@
+---
+title: "Maité A. Barrena"
+subtitle: "Marine ecologist · Open science instructor · Research data enthusiast"
+# image: img/profile.jpg   # <- descomentar al subir tu foto
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/maibarrena7
+    - icon: journal-text
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Maite-Barrena-3
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mait%C3%A9-barrena-706911390/
+    - icon: envelope
+      text: Email
+      href: mailto:maibarrena7@gmail.com
+    # - icon: person-badge
+    #   text: ORCID
+    #   href: https://orcid.org/XXXX-XXXX-XXXX-XXXX
+---
+
+## Hi, I'm Mai 🌊
+
+I'm a marine ecologist (she/her) finishing my PhD at the National University of
+Comahue and a doctoral fellow at **CIMAS–CONICET** in San Antonio Oeste,
+northern Patagonia, Argentina.
+
+My research looks at how coastal fish and invertebrate assemblages of
+**San Antonio Bay** change through space and time, and how they relate to
+trophic interactions and artisanal fisheries. I use Patagonian coastal systems
+as a natural laboratory.
+
+I care deeply about making ecological research **reproducible, transparent and
+reusable**. I trained as an open science instructor at the LMU Open Science Center, I work on
+research data stewardship, and I'm moving toward **metascience in marine
+ecology**: studying how we collect, report and share ecological data.
+
+I also teach mathematics to marine biology students.
+
+[Open to postdoctoral opportunities]{.chip .chip-open}
+
+## Interests
+
+[Coastal community ecology]{.chip} [Long-term ecological data]{.chip}
+[Trophic ecology]{.chip} [Artisanal fisheries]{.chip}
+[Metascience]{.chip} [Reproducibility]{.chip} [FAIR data]{.chip}
+[R & Quarto]{.chip} [Data visualization]{.chip}
+
+## Education
+
+::: card-item
+**PhD in Biology** · Centro Regional Universitario Bariloche, National University of Comahue
+
+[2022 – 2027 (expected)]{.meta}
+
+Spatio-temporal dynamics of fish and invertebrate assemblages in San Antonio Bay.
+:::
+
+::: card-item
+**Licenciatura in Marine Biology** · Faculty of Marine Sciences, National University of Comahue
+
+[AÑO]{.meta}
+
+Thesis on acanthocephalan parasites of the Patagonian blennie *Eleginops maclovinus*.
+:::
+
+## Training & certifications
+
+::: card-item
+**Open Science Summer School 2026 · Instructor certification** · LMU Open Science Center, Munich
+:::
+
+::: card-item
+**Metascience Summer School 2026** · Berlin Institute of Health at Charité
+:::
+
+::: card-item
+**Fish-PACE Hackweek 2026** · Satellite ocean colour × fish functional diversity
+:::
+
+::: funfact
+Fun fact: when I started my degree in marine biology I said
+"I'm never going to work with fish, they smell bad".
+:::

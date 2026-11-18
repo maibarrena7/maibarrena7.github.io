@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Maité Barrena</title>
+<link>https://maibarrena7.github.io/blog.html</link>
+<atom:link href="https://maibarrena7.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Marine ecologist · Open science &amp; research data</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Wed, 18 Nov 2026 13:34:47 GMT</lastBuildDate>
+</channel>
+</rss>

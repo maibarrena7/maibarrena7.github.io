@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+lang: en
+
+website:
+  title: "Maité Barrena"
+  description: "Marine ecologist · Open science & research data"
+  site-url: "https://maibarrena7.github.io"
+  repo-url: "https://github.com/maibarrena7/maibarrena7.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: open-science.qmd
+        text: Open Science
+      - href: teaching.qmd
+        text: Teaching
+      - href: blog.qmd
+        text: Blog
+      # Descomentar cuando subas cv/CV.pdf
+      # - href: cv/CV.pdf
+      #   text: CV
+    right:
+      - icon: github
+        href: https://github.com/maibarrena7
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mait%C3%A9-barrena-706911390/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:maibarrena7@gmail.com
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Maité A. Barrena · Content under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    right: "Built with [Quarto](https://quarto.org/) & R"
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

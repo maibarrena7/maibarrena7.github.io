@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching Assistant · Mathematics 1 (Matemática 1)\nLicenciatura in Marine Biology · Faculty of Marine Sciences, UNCo · AÑO – present\nI prepare step-by-step worked solutions to exams so students can follow the reasoning, not just the answer.\n\n\nDel caos al orden (open science workshop)\n2026–2027\nSee Open Science."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maité A. Barrena",
+    "section": "",
+    "text": "I’m a marine ecologist (she/her) finishing my PhD at the National University of Comahue and a doctoral fellow at CIMAS–CONICET in San Antonio Oeste, northern Patagonia, Argentina.\nMy research looks at how coastal fish and invertebrate assemblages of San Antonio Bay change through space and time, and how they relate to trophic interactions and artisanal fisheries. I use Patagonian coastal systems as a natural laboratory.\nI care deeply about making ecological research reproducible, transparent and reusable. I trained as an open science instructor at the LMU Open Science Center, I work on research data stewardship, and I’m moving toward metascience in marine ecology: studying how we collect, report and share ecological data.\nI also teach mathematics to marine biology students.\nOpen to postdoctoral opportunities"
+  },
+  {
+    "objectID": "index.html#hi-im-mai",
+    "href": "index.html#hi-im-mai",
+    "title": "Maité A. Barrena",
+    "section": "",
+    "text": "I’m a marine ecologist (she/her) finishing my PhD at the National University of Comahue and a doctoral fellow at CIMAS–CONICET in San Antonio Oeste, northern Patagonia, Argentina.\nMy research looks at how coastal fish and invertebrate assemblages of San Antonio Bay change through space and time, and how they relate to trophic interactions and artisanal fisheries. I use Patagonian coastal systems as a natural laboratory.\nI care deeply about making ecological research reproducible, transparent and reusable. I trained as an open science instructor at the LMU Open Science Center, I work on research data stewardship, and I’m moving toward metascience in marine ecology: studying how we collect, report and share ecological data.\nI also teach mathematics to marine biology students.\nOpen to postdoctoral opportunities"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Maité A. Barrena",
+    "section": "Interests",
+    "text": "Interests\nCoastal community ecology Long-term ecological data Trophic ecology Artisanal fisheries Metascience Reproducibility FAIR data R & Quarto Data visualization"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Maité A. Barrena",
+    "section": "Education",
+    "text": "Education\n\nPhD in Biology · Centro Regional Universitario Bariloche, National University of Comahue\n2022 – 2027 (expected)\nSpatio-temporal dynamics of fish and invertebrate assemblages in San Antonio Bay.\n\n\nLicenciatura in Marine Biology · Faculty of Marine Sciences, National University of Comahue\nAÑO\nThesis on acanthocephalan parasites of the Patagonian blennie Eleginops maclovinus."
+  },
+  {
+    "objectID": "index.html#training-certifications",
+    "href": "index.html#training-certifications",
+    "title": "Maité A. Barrena",
+    "section": "Training & certifications",
+    "text": "Training & certifications\n\nOpen Science Summer School 2026 · Instructor certification · LMU Open Science Center, Munich\n\n\nMetascience Summer School 2026 · Berlin Institute of Health at Charité\n\n\nFish-PACE Hackweek 2026 · Satellite ocean colour × fish functional diversity\n\n\nFun fact: when I started my degree in marine biology I said “I’m never going to work with fish, they smell bad”."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "open-science.html",
+    "href": "open-science.html",
+    "title": "Open Science & Research Data",
+    "section": "",
+    "text": "Ecology relies more and more on long-term monitoring, satellite products and large shared datasets. Whether those data can be found, understood and reused depends on how we organise, document and report our work. I want to help close that gap in marine ecology, both by teaching practical workflows and by studying research practices themselves (metascience)."
+  },
+  {
+    "objectID": "open-science.html#why-it-matters-to-me",
+    "href": "open-science.html#why-it-matters-to-me",
+    "title": "Open Science & Research Data",
+    "section": "",
+    "text": "Ecology relies more and more on long-term monitoring, satellite products and large shared datasets. Whether those data can be found, understood and reused depends on how we organise, document and report our work. I want to help close that gap in marine ecology, both by teaching practical workflows and by studying research practices themselves (metascience)."
+  },
+  {
+    "objectID": "open-science.html#projects",
+    "href": "open-science.html#projects",
+    "title": "Open Science & Research Data",
+    "section": "Projects",
+    "text": "Projects\n\nMetascience Summer School 2026 · group project\nBerlin Institute of Health at Charité\nDesigning an end-to-end toolkit to improve reporting practices. \n\n\nCoastal oceanographic observatory database\nData protocol\nProtocol for the structure, interoperability and reuse of a coastal oceanographic observatory’s database."
+  },
+  {
+    "objectID": "open-science.html#teaching-open-science",
+    "href": "open-science.html#teaching-open-science",
+    "title": "Open Science & Research Data",
+    "section": "Teaching open science",
+    "text": "Teaching open science\n\nDel caos al orden: organising research projects in R\nWorkshop · Faculty of Marine Sciences, UNCo · in Spanish\nSix-session, in-person workshop on organising, documenting and version-controlling research projects in R. Developed as part of my instructor certification at the LMU Open Science Center. CC BY-SA 4.0.\nWorkshop website · Materials"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My doctoral thesis studies the spatio-temporal dynamics of coastal fish assemblages in northern Patagonia, their interspecific interactions and their links with the artisanal fishery of San Antonio Bay (Río Negro, Argentina)."
+  },
+  {
+    "objectID": "research.html#phd-project",
+    "href": "research.html#phd-project",
+    "title": "Research",
+    "section": "",
+    "text": "My doctoral thesis studies the spatio-temporal dynamics of coastal fish assemblages in northern Patagonia, their interspecific interactions and their links with the artisanal fishery of San Antonio Bay (Río Negro, Argentina)."
+  },
+  {
+    "objectID": "research.html#current-lines",
+    "href": "research.html#current-lines",
+    "title": "Research",
+    "section": "Current lines",
+    "text": "Current lines\n\nTrophic ecology of the coastal fish assemblage\nSan Antonio Bay\nTrophic relationships and food-web indicators of the coastal fish assemblage.\n\n\nWho can live in San Antonio Bay?\nCommunity assembly\nRegional and functional filters as drivers of temporal persistence and turnover in the fish assemblage.\n\n\nArtisanal fishers and their catch\nSocio-ecological research\nTo what extent do artisanal fishers maintain their traditional practices, which species dominate their catch, and what drives that trend?\n\n\nThe San Antonio Bay – San Matías Gulf front\nCollaboration · data & code\nHydrography and chlorophyll-a patterns of a hypersaline bay–gulf frontal system (manuscript in preparation). Repository\n\n\nA glimpse of food webs from space\nFish-PACE Hackweek 2026\nLinking satellite-derived phytoplankton functional types with fish functional diversity from bottom trawl surveys. Repository"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\n\nThorny-headed worms of the Patagonian blennie\nFolia Parasitologica · 2025\nAcanthocephalan fauna of 120 Eleginops maclovinus from northern Patagonia. doi:10.14411/fp.2025.030\n\n\nA historical appraisal of the San Antonio Bay fish assemblage\nMarine and Fishery Sciences · 2025\nComposition and temporal dynamics of the coastal fish assemblage and its relationship with the artisanal fishery, compared with historical records. doi:10.47193/mafis.3842025011010\n\n\nPopulation dynamics of the Pacific cupped oyster Magallana gigas in northern Patagonia\nMarine and Fishery Sciences · 2025\nDistribution, abundance and size structure along 180 km of coastline. doi:10.47193/mafis.3822025010105\n\n\nA Latin American network of microbial observatories for monitoring aquatic ecosystems\nEcología Austral · 2024\nHistorical overview of the network’s formation and key debates (2017–2023). doi:10.25260/EA.24.34.3.0.2436"
+  }
+]

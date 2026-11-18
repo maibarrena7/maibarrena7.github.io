@@ -1,0 +1,20 @@
+---
+title: "Teaching"
+---
+
+::: card-item
+**Teaching Assistant · Mathematics 1 (Matemática 1)**
+
+[Licenciatura in Marine Biology · Faculty of Marine Sciences, UNCo · AÑO – present]{.meta}
+
+I prepare step-by-step worked solutions to exams so students can follow the
+reasoning, not just the answer.
+:::
+
+::: card-item
+**Del caos al orden** (open science workshop)
+
+[2026–2027]{.meta}
+
+See [Open Science](open-science.qmd).
+:::

@@ -1,0 +1,10 @@
+---
+title: "Into the postdoctoral wormhole"
+date: 2026-11-18
+categories: [career, open science]
+description: "Wrapping up a PhD and looking at what comes next."
+draft: true
+---
+
+Primer post: qué estás terminando, qué buscás y sobre qué vas a escribir acá.
+(Mientras tenga `draft: true` no se publica; borralo cuando esté listo.)

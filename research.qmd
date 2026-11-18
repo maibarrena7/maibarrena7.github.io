@@ -1,0 +1,98 @@
+---
+title: "Research"
+---
+
+## PhD project
+
+My doctoral thesis studies the **spatio-temporal dynamics of coastal fish
+assemblages in northern Patagonia**, their interspecific interactions and
+their links with the artisanal fishery of San Antonio Bay (Río Negro, Argentina).
+
+## Current lines
+
+::: card-item
+**Trophic ecology of the coastal fish assemblage**
+
+[San Antonio Bay]{.meta}
+
+Trophic relationships and food-web indicators of the coastal fish assemblage.
+:::
+
+::: card-item
+**Who can live in San Antonio Bay?**
+
+[Community assembly]{.meta}
+
+Regional and functional filters as drivers of temporal persistence and
+turnover in the fish assemblage.
+:::
+
+::: card-item
+**Artisanal fishers and their catch**
+
+[Socio-ecological research]{.meta}
+
+To what extent do artisanal fishers maintain their traditional practices,
+which species dominate their catch, and what drives that trend?
+:::
+
+::: card-item
+**The San Antonio Bay – San Matías Gulf front**
+
+[Collaboration · data & code]{.meta}
+
+Hydrography and chlorophyll-a patterns of a hypersaline bay–gulf frontal
+system (manuscript in preparation).
+[Repository](https://github.com/maibarrena7/hypersaline-frontal-system)
+:::
+
+::: card-item
+**A glimpse of food webs from space**
+
+[Fish-PACE Hackweek 2026]{.meta}
+
+Linking satellite-derived phytoplankton functional types with fish functional
+diversity from bottom trawl surveys.
+[Repository](https://github.com/fish-pace/2026-proj-plankton-fish-guilds)
+:::
+
+## Publications
+
+<!-- Completar autores, títulos exactos y años. Alternativa: usar un .bib exportado de Zotero -->
+
+::: card-item
+**Thorny-headed worms of the Patagonian blennie**
+
+[*Folia Parasitologica* · 2025]{.meta}
+
+Acanthocephalan fauna of 120 *Eleginops maclovinus* from northern Patagonia.
+[doi:10.14411/fp.2025.030](https://doi.org/10.14411/fp.2025.030)
+:::
+
+::: card-item
+**A historical appraisal of the San Antonio Bay fish assemblage**
+
+[*Marine and Fishery Sciences* · 2025]{.meta}
+
+Composition and temporal dynamics of the coastal fish assemblage and its
+relationship with the artisanal fishery, compared with historical records.
+[doi:10.47193/mafis.3842025011010](https://doi.org/10.47193/mafis.3842025011010)
+:::
+
+::: card-item
+**Population dynamics of the Pacific cupped oyster *Magallana gigas* in northern Patagonia**
+
+[*Marine and Fishery Sciences* · 2025]{.meta}
+
+Distribution, abundance and size structure along 180 km of coastline.
+[doi:10.47193/mafis.3822025010105](https://doi.org/10.47193/mafis.3822025010105)
+:::
+
+::: card-item
+**A Latin American network of microbial observatories for monitoring aquatic ecosystems**
+
+[*Ecología Austral* · 2024]{.meta}
+
+Historical overview of the network's formation and key debates (2017–2023).
+[doi:10.25260/EA.24.34.3.0.2436](https://doi.org/10.25260/EA.24.34.3.0.2436)
+:::
