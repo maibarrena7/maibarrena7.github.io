@@ -10,6 +10,46 @@
 <atom:link href="https://maibarrena7.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Marine ecologist · Open science &amp; research data</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Wed, 18 Nov 2026 14:02:16 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Into the postdoctoral wormhole</title>
+  <link>https://maibarrena7.github.io/posts/2026-11-18-hello/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="../../img/bg/boat-wake.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://maibarrena7.github.io/img/bg/boat-wake.jpg" class="img-fluid" alt="Painting of a boat wake on the blue waters of San Antonio Bay"></a></p>
+<p>My PhD thesis is finally under review. After five years of trawl surveys, stomach contents, null models and more R scripts than I’d like to admit, I’m stepping into what I like to call the <em>postdoctoral wormhole</em>: that strange space between finishing a thesis and figuring out what comes next.</p>
+<section id="where-im-coming-from" class="level2">
+<h2 class="anchored" data-anchor-id="where-im-coming-from">Where I’m coming from</h2>
+<p>My thesis looked at the fish and invertebrate assemblages of San Antonio Bay, in northern Patagonia: which species and traits make it through the filters of a highly variable bay, who eats whom, and how all of this connects with the local artisanal fishery.</p>
+<p>Along the way, I discovered a second passion: <strong>how</strong> we do science. Messy folders, undocumented data, analyses nobody (including me, six months later) could reproduce. That led me to train as an open science instructor at the LMU Open Science Center, to join SORTEE, to become an Ocean Data Steward, and to spend a summer thinking about study design and reporting at the Meta-Science Summer School in Berlin.</p>
+</section>
+<section id="where-im-going" class="level2">
+<h2 class="anchored" data-anchor-id="where-im-going">Where I’m going</h2>
+<p>I want to bring those two worlds together: <strong>metascience in marine ecology</strong>. How are ecological data collected, reported and shared? How can we make them easier to trust and reuse? I’m currently looking for postdoctoral opportunities in this space.</p>
+</section>
+<section id="what-youll-find-here" class="level2">
+<h2 class="anchored" data-anchor-id="what-youll-find-here">What you’ll find here</h2>
+<ul>
+<li>Notes on open science and reproducible workflows in R and Quarto</li>
+<li>Behind the scenes of my research in San Antonio Bay</li>
+<li>Reflections on research data, reporting and metascience in ecology</li>
+<li>The ups and downs of the postdoc search</li>
+</ul>
+<p>Thanks for stopping by. 🌊</p>
+
+
+</section>
+
+ ]]></description>
+  <category>career</category>
+  <category>open science</category>
+  <category>metascience</category>
+  <guid>https://maibarrena7.github.io/posts/2026-11-18-hello/</guid>
+  <pubDate>Wed, 18 Nov 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://maibarrena7.github.io/img/bg/boat-wake.jpg" medium="image" type="image/jpeg"/>
+</item>
 </channel>
 </rss>
